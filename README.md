@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Dole
+- 🌱 I’m currently learning React and React Native
+- 👯 I’m looking to collaborate on React projects
+
+- ⚡ [Rick and morty app](https://jasomar.github.io/react-rick-and-morty/)
 <!--
 **jasomar/jasomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
