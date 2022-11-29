@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate on React projects
 
 - ⚡ [Rick and morty app](https://jasomar.github.io/react-rick-and-morty/)
+- ⚡ [Task](https://react-rtk-crud.vercel.app)
 <!--
 **jasomar/jasomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
