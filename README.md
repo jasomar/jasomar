@@ -5,8 +5,9 @@
 - 🌱 I’m currently learning React and React Native
 - 👯 I’m looking to collaborate on React projects
 
-- ⚡ [Rick and morty app](https://jasomar.github.io/react-rick-and-morty/)
-- ⚡ [Task List](https://react-rtk-crud.vercel.app)
+- ⚡ [Rick and morty React app](https://jasomar.github.io/react-rick-and-morty/)
+- ⚡ [First CRUD React](https://react-rtk-crud.vercel.app)
+- ⚡ [First Node App](node-webserve-production.up.railway.app)
 <!--
 **jasomar/jasomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
