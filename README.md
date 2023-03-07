@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 😄 [Linkedin profile](https://www.linkedin.com/in/jafet-solano-394684208/)
-- 🔭 I’m currently working on Dole
 - 🌱 I’m currently learning React and React Native
 - 👯 I’m looking to collaborate on React projects
 
