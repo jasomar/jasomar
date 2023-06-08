@@ -8,7 +8,7 @@
 - ⚡ [Rick and morty React app](https://jasomar.github.io/react-rick-and-morty/)
 - ⚡ [First CRUD React](https://react-rtk-crud.vercel.app)
 
-### CSS 
+### CSS Responsive
 -  ⚡[Furniture Store](https://ecommerce-css.vercel.app)
 
 
