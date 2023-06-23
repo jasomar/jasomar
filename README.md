@@ -1,15 +1,17 @@
 ### Hi there 👋
 
 - 😄 [Linkedin profile](https://www.linkedin.com/in/jafet-solano-394684208/)
-- 🌱 I’m currently learning React and React Native
-- 👯 I’m looking to collaborate on React projects
-
-### React
-- ⚡ [Rick and morty React app](https://jasomar.github.io/react-rick-and-morty/)
-- ⚡ [First CRUD React](https://react-rtk-crud.vercel.app)
-
-### CSS Responsive
--  ⚡[Furniture Store](https://ecommerce-css.vercel.app)
+<!-- - 🌱 I’m currently learning React and React Native
+- 👯 I’m looking to collaborate on React projects-->
+    ### 📫 Work 📫
+    
+    ## React
+    - ⚡ [Rick and morty React app](https://jasomar.github.io/react-rick-and-morty/)
+    - ⚡ [First CRUD React](https://react-rtk-crud.vercel.app)
+    - ⚡ [Ecommerce Design ](https://react-ecommerce-desing.vercel.app)
+    
+    ## HTML + CSS Responsive
+    -  ⚡[Furniture Store](https://ecommerce-css.vercel.app)
 
 
 <!-- - ⚡ [Admin Panel React](https://tempale-react.vercel.app)
