@@ -1,8 +1,8 @@
-# Hi there 👋
+<!--# Hi there 👋
 
 - 😄 [Linkedin profile](https://www.linkedin.com/in/jafet-solano-394684208/)
-<!-- - 🌱 I’m currently learning React and React Native
-- 👯 I’m looking to collaborate on React projects-->
+ - 🌱 I’m currently learning React and React Native
+- 👯 I’m looking to collaborate on React projects
 ## Works 😄
 ### React
 - ⚡ [Rick and morty React app](https://jasomar.github.io/react-rick-and-morty/)
@@ -12,21 +12,21 @@
 ### HTML5 + CSS3 Responsive
 -  ⚡[Furniture Store](https://ecommerce-css.vercel.app)
 -  ⚡[TechPRO](https://headset-phi.vercel.app)
--  ⚡[ArquitecturaBosque](https://arqui-ruddy.vercel.app)
+-  ⚡[ArquitecturaBosque](https://arqui-ruddy.vercel.app)-->
 
 
 
-Front-End Development
-HTML5 | CSS3 | SASS | Bootstrap | Angular | JavaScript | TypeScript
+### React Front-End Development
+HTML5 | CSS3 | SASS | Bootstrap | React | JavaScript | TypeScript
 
-Back-End Development
+### Back-End Development
 Node.JS
 
-Databases
-SQL | Cloudant | Postgres
+### Databases
+SQL | MongoDB | Postgres
 
-Tech Skills
-Windows | macOS | Basic Linux | Microsoft Office | Adobe (Photoshop, Illustrator, Audition, Premiere)
+### Tech Skills
+Windows | macOS | Basic Linux | Microsoft Office
 
 Soft Skills
 Proactive | Communicative | Teamwork | Self-learner | Advanced Engligh | Agile | Mentoring
