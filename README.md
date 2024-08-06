@@ -15,6 +15,23 @@
 -  ⚡[ArquitecturaBosque](https://arqui-ruddy.vercel.app)
 
 
+
+Front-End Development
+HTML5 | CSS3 | SASS | Bootstrap | Angular | JavaScript | TypeScript
+
+Back-End Development
+Node.JS
+
+Databases
+SQL | Cloudant | Postgres
+
+Tech Skills
+Windows | macOS | Basic Linux | Microsoft Office | Adobe (Photoshop, Illustrator, Audition, Premiere)
+
+Soft Skills
+Proactive | Communicative | Teamwork | Self-learner | Advanced Engligh | Agile | Mentoring
+
+
 <!-- - ⚡ [Admin Panel React](https://tempale-react.vercel.app)
 
 ⚡ [First Node App](https://node-webserve-production.up.railway.app)-->
