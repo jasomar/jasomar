@@ -1,29 +1,11 @@
-<!--# Hi there 👋
+# 👋 Hi, I'm Jafet  
 
-- 😄 [Linkedin profile](https://www.linkedin.com/in/jafet-solano-394684208/)
- - 🌱 I’m currently learning React and React Native
-- 👯 I’m looking to collaborate on React projects
-## Works 😄
-### React
-- ⚡ [Rick and morty React app](https://jasomar.github.io/react-rick-and-morty/)
-- ⚡ [First CRUD React](https://react-rtk-crud.vercel.app)
-- ⚡ [Ecommerce Design ](https://react-ecommerce-desing.vercel.app)
-
-### HTML5 + CSS3 Responsive
--  ⚡[Furniture Store](https://ecommerce-css.vercel.app)
--  ⚡[TechPRO](https://headset-phi.vercel.app)
--  ⚡[ArquitecturaBosque](https://arqui-ruddy.vercel.app)-->
-
-
-
-# 👋 Hola, soy Jafet  
-
-💻 **Full-Stack Developer** apasionado por crear soluciones escalables y funcionales, con experiencia tanto en el **Front-End** como en el **Back-End**.  
-Siempre buscando aprender y aplicar nuevas tecnologías para entregar el mejor resultado.  
+💻 **Full-Stack Developer** passionate about building scalable and functional solutions, with experience in both **Front-End** and **Back-End**.  
+Always eager to learn and apply new technologies to deliver the best results.  
 
 ---
 
-## 🛠️ Tecnologías y Herramientas  
+## 🛠️ Technologies & Tools  
 
 ### 🌐 Front-End
 <div align="left">
@@ -35,49 +17,45 @@ Siempre buscando aprender y aplicar nuevas tecnologías para entregar el mejor r
   <img src="https://skillicons.dev/icons?i=nodejs,dotnet,cs" />
 </div>
 
-### 🗄️ Bases de Datos
+### 📱 Mobile Development
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,react" />
+  <br>
+  <sub>React Native</sub>
+</div>
+
+### 🗄️ Databases
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 </div>
 
 ### 💻 Tech Skills
-- Windows | macOS | Linux (básico)  
+- Windows | macOS | Linux (basic)  
 - Microsoft Office  
+
+### 📌 Methodologies
+- Scrum  
+- Agile  
 
 ---
 
 ## 🤝 Soft Skills
-- Proactivo  
-- Comunicativo  
-- Trabajo en equipo  
-- Autodidacta  
-- Inglés avanzado  
-- Ágil (metodologías)  
-- Mentoría  
+- Proactive  
+- Communicative  
+- Teamwork  
+- Self-learner  
+- Advanced English  
+- Mentoring  
 
 ---
+
+<!--✨ Always looking for new challenges and opportunities to grow as a professional.  
+📫 Feel free to connect with me on **[LinkedIn](https://linkedin.com/in/)** or collaborate on my projects here on GitHub.  
+
+---
+
 
 <!-- ✨ Siempre en busca de nuevos retos y oportunidades para crecer como profesional.  
 📫 Puedes contactarme a través de **[LinkedIn](https://linkedin.com/in/)** o colaborar en mis proyectos aquí en GitHub. 
 
 --- -->
-
-
-
-<!-- - ⚡ [Admin Panel React](https://tempale-react.vercel.app)
-
-⚡ [First Node App](https://node-webserve-production.up.railway.app)-->
-<!--
-**jasomar/jasomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
