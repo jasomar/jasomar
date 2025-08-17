@@ -16,20 +16,52 @@
 
 
 
-### React Front-End Development
-HTML5 | CSS3 | SASS | Bootstrap | React | JavaScript | TypeScript
+# 👋 Hola, soy Jafet  
 
-### Back-End Development
-Node.JS
+💻 **Full-Stack Developer** apasionado por crear soluciones escalables y funcionales, con experiencia tanto en el **Front-End** como en el **Back-End**.  
+Siempre buscando aprender y aplicar nuevas tecnologías para entregar el mejor resultado.  
 
-### Databases
-SQL | MongoDB | Postgres
+---
 
-### Tech Skills
-Windows | macOS | Basic Linux | Microsoft Office
+## 🛠️ Tecnologías y Herramientas  
 
-Soft Skills
-Proactive | Communicative | Teamwork | Self-learner | Advanced Engligh | Agile | Mentoring
+### 🌐 Front-End
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,react,js,ts" />
+</div>
+
+### ⚙️ Back-End
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,dotnet,cs" />
+</div>
+
+### 🗄️ Bases de Datos
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+</div>
+
+### 💻 Tech Skills
+- Windows | macOS | Linux (básico)  
+- Microsoft Office  
+
+---
+
+## 🤝 Soft Skills
+- Proactivo  
+- Comunicativo  
+- Trabajo en equipo  
+- Autodidacta  
+- Inglés avanzado  
+- Ágil (metodologías)  
+- Mentoría  
+
+---
+
+✨ Siempre en busca de nuevos retos y oportunidades para crecer como profesional.  
+📫 Puedes contactarme a través de **[LinkedIn](https://linkedin.com/in/)** o colaborar en mis proyectos aquí en GitHub.  
+
+---
+
 
 
 <!-- - ⚡ [Admin Panel React](https://tempale-react.vercel.app)
