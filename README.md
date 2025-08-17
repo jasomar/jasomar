@@ -57,10 +57,10 @@ Siempre buscando aprender y aplicar nuevas tecnologías para entregar el mejor r
 
 ---
 
-✨ Siempre en busca de nuevos retos y oportunidades para crecer como profesional.  
-📫 Puedes contactarme a través de **[LinkedIn](https://linkedin.com/in/)** o colaborar en mis proyectos aquí en GitHub.  
+<!-- ✨ Siempre en busca de nuevos retos y oportunidades para crecer como profesional.  
+📫 Puedes contactarme a través de **[LinkedIn](https://linkedin.com/in/)** o colaborar en mis proyectos aquí en GitHub. 
 
----
+--- -->
 
 
 
