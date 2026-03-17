@@ -19,14 +19,19 @@ Always eager to learn and apply new technologies to deliver the best results.
 
 ### 📱 Mobile Development
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,react" />
+  <img src="https://skillicons.dev/icons?i=flutter" />
   <br>
-  <sub>React Native</sub>
+ 
 </div>
 
 ### 🗄️ Databases
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+</div>
+
+### ☁️ Cloud
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=aws" />
 </div>
 
 ### 💻 Tech Skills
